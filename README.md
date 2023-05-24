@@ -3,8 +3,8 @@
 </h1>
 
 
-## Description (EN, [RU](README-RU.MD))
-The **[Online Cookies Tester](https://cookies.point900.com)** website will help you to easily check the result of **clearing** your browser's data, as well as verify the mechanisms for **restoring** the state of cookies or a session.
+## Description (EN, [RU](README-RU.md))
+The **<a href="https://cookies.point900.com" target="_blank">Online Cookies Tester</a>** website will help you to easily check the result of **clearing** your browser's data, as well as verify the mechanisms for **restoring** the state of cookies or a session.
 
 
 ## Main Features
@@ -35,5 +35,5 @@ Also you can write own [Issues](https://github.com/jen-soft/online_cookies_teste
 
 ## Author
 Evgeny Amanov **Jen-Soft** - Python backend developer.
-- Telegram: [@jen_soft_master](https://t.me/jen_soft_master)
+- Telegram: <a href="https://t.me/jen_soft_master" target="_blank">@jen_soft_master</a>
 - Email: jen.soft.master@gmail.com
